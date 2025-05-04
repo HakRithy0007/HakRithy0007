@@ -11,7 +11,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Contact me:</h2>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 30px;">
   <a target="_blank" href="https://www.facebook.com/thy.i.397771">
     <img src="https://img.shields.io/badge/Facebook-%230866ff?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
